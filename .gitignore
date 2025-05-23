@@ -1,1 +1,27 @@
 .metadata/
+
+# Eclipse-specific files
+.metadata/
+*.classpath
+*.project
+.settings/
+
+# Compiled Java class files
+*.class
+
+# Logs
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDEs
+.idea/
+*.iml
+*.iws
+
+# Maven/Gradle
+target/
+build/
